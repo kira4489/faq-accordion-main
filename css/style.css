@@ -170,17 +170,15 @@ display: none;
     display: none;
   }
   .ilustration-women-mobile {
-      display: block;
-      margin: -9rem;
+    display: block;
+    margin: -9rem;
   }
   .bg-pattern-desktop {
     display: none;
   }
   .bg-pattern-mobile {
     display: block;
-    width: 80%;
-    /* position: absolute; */
-    margin:auto
+    margin-bottom: -10rem;
   }
   .accordion {
     margin: 1rem;
